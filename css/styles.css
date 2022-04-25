@@ -32,6 +32,9 @@
     letter-spacing: 0.03em;
     text-decoration: none;
 }
+.list {
+    list-style-type: none;
+}
 .title {
     color: var(--title-text-color);
     font-weight: 500;
