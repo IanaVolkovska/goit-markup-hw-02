@@ -57,6 +57,8 @@
     color: var(--link-text-color);
 }
 
+/*Contact links*/
+
 .link {
     color: var(--primary-text-color);
     font-family: inherit;
